@@ -1,0 +1,4 @@
+Mar 02, 2022 7:52:21 AM com.revature.coolkicks.App main
+WARNING: warning msg
+Mar 02, 2022 8:22:10 AM com.revature.coolkicks.App main
+WARNING: warning msg
